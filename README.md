@@ -84,32 +84,9 @@ To get started with this project, follow these steps:
 - **visualization.py**: Script for visualizing data and model results.
 
 ## Usage ⚙️
-
-To run individual scripts, use the following commands:
-
-- **Data Processing**:
+To run 
     ```bash
-    python scripts/data_processing.py
-    ```
-
-- **Feature Engineering**:
-    ```bash
-    python scripts/feature_engineering.py
-    ```
-
-- **Model Training**:
-    ```bash
-    python scripts/model_training.py
-    ```
-
-- **Evaluation**:
-    ```bash
-    python scripts/evaluation.py
-    ```
-
-- **Visualization**:
-    ```bash
-    python scripts/visualization.py
+    python main.py
     ```
 
 ## Requirements 📦
